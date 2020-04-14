@@ -1,0 +1,24 @@
+{
+  "name": "nodejsnpm",
+  "version": "1.0.0",
+  "description": "Mon dépôt pour l'étape 4 du cours Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "today": "node today.js",
+    "weather": "node weather.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehdiChaouche/nodejsnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MehdiChaouche/nodejsnpm/issues"
+  },
+  "homepage": "https://github.com/MehdiChaouche/nodejsnpm#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
